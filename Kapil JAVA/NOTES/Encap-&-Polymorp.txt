@@ -1,0 +1,8 @@
+1. Encap. is an OOPS concept to protect DATA and is achieved by Wrapping methods in a single unit/(Class) [declaring methods PRIVATE].
+
+2. Inheritance is OOPS concept used to inherit properties of parent class to child class.
+3. Inheritance benefits are Efficient, Reusable, Lower Space, Optimized Code.
+
+4. Polymorphism is OOPS concept that allows to use single action in different ways.
+
+5. Abstraction can be achieved by using Abstract Class or Interfaces
