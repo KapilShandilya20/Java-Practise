@@ -1,6 +1,6 @@
 package com.wiect.methodoverriding;
 
-public class Square extends Shape c{ 
+public class Square extends Shape { 
 
 	private int side;
 	
